@@ -96,3 +96,9 @@ tr.total td {
   text-align: right;
   padding: 0 0.25rem;
 }
+tr.total td:nth-last-of-type(3) {
+  padding-right: 0.5rem;
+}
+tr.total:hover {
+  background-color: #99c9ff;
+}
