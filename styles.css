@@ -76,3 +76,8 @@ table caption {
   top: -2.25rem;
   left: 0.5rem;
 }
+tbody td {
+  width: 100vw;
+  min-width: 4rem;
+  max-width: 4rem;
+}
